@@ -1,0 +1,10 @@
+Miguel Gonzalez Martinez
+Grupo: 2809
+
+shasum -a 1
+hash original:      62a0d8b25bec74484a1a9611d3da6472eb143af6
+hash con cambio:    92f4c5bf3bd4ab9c8eda31d098117ef56bd4bf86
+
+quitar el cambio en el archivo hola.py y sacar nuevamente hash para comparar:
+hash original:           62a0d8b25bec74484a1a9611d3da6472eb143af6
+hash al quitar cambios:  62a0d8b25bec74484a1a9611d3da6472eb143af6
